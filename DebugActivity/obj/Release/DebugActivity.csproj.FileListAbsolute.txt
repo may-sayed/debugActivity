@@ -1,0 +1,6 @@
+W:\DebugActivity\DebugActivity\bin\Release\DebugActivity.exe.config
+W:\DebugActivity\DebugActivity\bin\Release\DebugActivity.exe
+W:\DebugActivity\DebugActivity\bin\Release\DebugActivity.pdb
+W:\DebugActivity\DebugActivity\obj\Release\DebugActivity.csprojResolveAssemblyReference.cache
+W:\DebugActivity\DebugActivity\obj\Release\DebugActivity.exe
+W:\DebugActivity\DebugActivity\obj\Release\DebugActivity.pdb

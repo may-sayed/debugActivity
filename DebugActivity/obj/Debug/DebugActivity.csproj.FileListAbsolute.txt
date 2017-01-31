@@ -1,0 +1,5 @@
+W:\DebugActivity\DebugActivity\bin\Debug\DebugActivity.exe.config
+W:\DebugActivity\DebugActivity\bin\Debug\DebugActivity.exe
+W:\DebugActivity\DebugActivity\bin\Debug\DebugActivity.pdb
+W:\DebugActivity\DebugActivity\obj\Debug\DebugActivity.exe
+W:\DebugActivity\DebugActivity\obj\Debug\DebugActivity.pdb
